@@ -1,0 +1,20 @@
+module inst_mem (
+	input             i_clk,
+	input             i_rst_n,
+	input  [ 31 : 0 ] i_addr,
+	output [ 31 : 0 ] o_inst
+);	
+`protected
+a87?@SQ:5DT^<]4]RC?J\E8@YCbT5I`4SgIkPgiO=5V>no\i:lRJ>CVMJ]iSeAeI
+[3Q;iD0E_=7LpaGNK=7jEa\Z`BVUbeo:g0oX1QZ:aVknnAkCSJBQUpH1Xm;_M;c3
+m`mngebCM<p;PA>b?pb9J\XU@]5Q1Zb=haQTlj_@QMF>iX:;`m;Z6glY@9kFIAP;
+@8D;Qbpd5VGme:A9H]_jRdPP@^`C=DiBnPilC4W6SVg8?\KB^Ico;l8p55NV1@nJ
+O\f=5X>D0akTaiKg[5mCLfG4piYG:CnXHZP[5G4pYiWV77pAFM;D1q;7LIP1q]_R
+4`jIA4el3Bj[?5ZlpXBBUc_S^5a24_8cSh=c6`8WiBFFBZJMWnkpGme:6A[eNn[L
+4\HcdZUFJYclA6`G>o7R9h2cTNkNg7PR18D6qUo:AZPpSB<QCd=f@XPEYg]qg;]U
+`W\=_bh:?6DSb2DNhDIOM`c:8_SVbNe15R4YpJ3MLD>i5q@OHGZJq5S:XiUfDJSf
+KW6ccKL4RCYFID0BPROUT[g@VfFHeMQ^qCgkSgkWO>FBFL>XkdkG\bC^nDTJ7g?L
+m1n[J7TFYe:a6YK`q_5G7DeSO:nIdg:9o@DLhmofnR\_^6FelHCPh`eCJkPAcLFL
+29PI3XNLQZk1qNRZDk?GNB3<m;kcZh7\=;0f9ehL843h38oZhW0Pd_kbqFYeKRQK
+YqUX\`;epc4]Jck9$
+`endprotected
